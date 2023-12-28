@@ -17,7 +17,7 @@ You can install the necessary libraries using pip:
 pip install speechRecognition pyttsx3 pywhatkit datetime
 ```
 
-### Executing program
+## Executing program
 To run the program, navigate to the directory containing the script and use the following command:
 ```bash
 python voice_command_assistant.py
