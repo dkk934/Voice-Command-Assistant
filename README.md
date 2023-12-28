@@ -22,6 +22,16 @@ To run the program, navigate to the directory containing the script and use the 
 ```bash
 python voice_command_assistant.py
 ```
+Wait for the assistant to say “SIR what’s your COMMAND…” and then speak your command into the microphone. Make sure you have a working internet connection and a clear voice.
+
+#### Some of the commands that you can use are:
+
+- “Friday paint” to open Paint application.
+- “Friday shutdown” to shutdown the system.
+- “Friday rest” to stop the assistant.
+
+  
+You can also use other commands that are not predefined, such as opening a website or a file. The assistant will try to execute them using the os module.
 
 ## Help
 If you encounter any problems or issues, feel free to open an issue on this GitHub repository.
